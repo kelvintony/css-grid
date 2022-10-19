@@ -70,7 +70,7 @@
           next level in a way that no tutorial could ever have. In fact, I've
           often referred to it during interviews as an example of my developent
           experience. It certainly helped me land a job as a full-stack
-          developer after receiving multiple offers. 100% recommend!"
+          developer algorithm after receiving multiple offers. 100% recommend!"
         </p>
     <footer>
       <h3>
