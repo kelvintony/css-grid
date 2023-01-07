@@ -111,4 +111,10 @@ body {
 		grid-row: 5;
 		grid-column: 1/2;
 	}
+.container {
+	padding: 30px;
+	display: grid;
+	gap: 20px;
+	grid-template-columns: 1fr;
+}
 }
